@@ -149,5 +149,4 @@ def main():
     word = get_word()
     play(word)
 
-# if __name__ == "__main__":
 main()
